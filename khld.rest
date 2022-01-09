@@ -1,0 +1,11 @@
+POST  http://localhost:9000/
+Content-Type: application/json
+
+{
+    "name": "khld",
+   "email": "mom381.sust@gmail.com",
+    "password": "Mutgab@11"
+}
+###
+GET http://localhost:9000
+Content-Type: application/json
